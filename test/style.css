@@ -1,0 +1,13 @@
+.logo img{
+    display: inline;
+    width: 100px;
+    float : left;
+}
+.title{
+    display: inline;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
